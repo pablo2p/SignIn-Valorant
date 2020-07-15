@@ -102,7 +102,7 @@ export const Topo = styled.div`
     }
 
     img {
-        width: 50px;
+        width: 70px;
     }
 `;
 
